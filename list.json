@@ -1,0 +1,86 @@
+
+{
+    "list":[
+       {
+    "sno":"1",
+    "name":"IR Rice",
+    "quantity":"20kg",
+    "unit":"1",
+    "department":"A",
+    "notes":"Specify to buy ponni type rice"
+},
+{
+    "sno":"2",
+    "name":"Ashirvad Atta",
+    "quantity":"5kg",
+    "unit":"1",
+    "department":"C",
+    "notes":"Check the expiry before buying"  
+},
+{
+    "sno":"3",
+    "name":"Kerala coconut oil",
+    "quantity":"1Lt",
+    "unit":"2",
+    "department":"G",
+    "notes":"Check whether there is a spill"
+},
+{
+    "sno":"4",
+    "name":"Tata Salt",
+    "quantity":"1kg",
+    "unit":"2",
+    "department":"D",
+    "notes":"Check whether it is a old stock"
+},
+{
+    "sno":"5",
+    "name":"Tata Sugar",
+    "quantity":"1kg",
+    "unit":"4",
+    "department":"B",
+    "notes":"Check the packing condation"
+},
+{
+    "sno":"6",
+    "name":"Vegetables",
+    "quantity":"3kg",
+    "unit":"1",
+    "department":"F",
+    "notes":"Take the fresh ones"
+},
+{
+    "sno":"7",
+    "name":"Curry Powder",
+    "quantity":"250gm",
+    "unit":"5",
+    "department":"E",
+    "notes":"Check packet condation"
+},
+{
+    "sno":"8",
+    "name":"Mustard",
+    "quantity":"100gm",
+    "unit":"2",
+    "department":"J",
+    "notes":"Check packet"
+},
+{
+    "sno":"9",
+    "name":"Vinagiri",
+    "quantity":"1L",
+    "unit":"1",
+    "department":"H",
+    "notes":"Buy new stock"
+},
+{
+    "sno":"10",
+    "name":"Fruits",
+    "quantity":"2kg",
+    "unit":"1",
+    "department":"I",
+    "notes":"Buy fresh ones"
+}
+]
+}
+
